@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+work/
+outputs/
+.cw/
+.env*
+*.log
+*.local
+.DS_Store
